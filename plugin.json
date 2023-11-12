@@ -1,0 +1,11 @@
+{
+  "logo": "logo.jpeg",
+  "preload": "preload.js",
+  "features": [
+    {
+      "code": "screen_capture",
+      "explain": "screen capture 屏幕截图",
+      "cmds": ["screen_capture", "screen capture"]
+    }
+  ]
+}
